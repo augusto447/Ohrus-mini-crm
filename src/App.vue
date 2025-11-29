@@ -9,7 +9,7 @@ const route = useRoute();
   <div class="mt-6">
     <Header
       :title="
-        route.path === '/clients'
+        route.path === '/'
           ? 'Clientes'
           : route.path === '/archived'
           ? 'Arquivados'

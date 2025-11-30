@@ -28,7 +28,7 @@ Permite cadastrar, arquivar e excluir clientes de forma simples e intuitiva.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🧰 Ferramentas & Versionamento
-![Pinia](https://img.shields.io/badge/Pinia-3EA8FF?style=for-the-badge&logo=pinia&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
